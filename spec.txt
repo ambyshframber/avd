@@ -1,0 +1,3 @@
+"drive" must represent 65536 256-byte blocks
+don't load the entire 16M into memory
+run-length encoding on the block level
